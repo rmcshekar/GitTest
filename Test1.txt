@@ -1,1 +1,5 @@
-My First Remote File 
+My First Remote File
+
+Added an extra line to use single line commit commad 
+
+#git commit -Test1.txt -m  " Added a new line " 
